@@ -58,7 +58,7 @@ python3 main.py
 Here’s what the assistant looks like in action:
 
 ### Encoder
-![AI Security Assistant in Terminal](screenshot4.png)
+![AI Security Assistant in Terminal](Screenshot4.png)
 
 ### GPT Explanation Example
-![AI Security Assistant in Terminal](screenshot3.png)
+![AI Security Assistant in Terminal](Screenshot3.png)
