@@ -62,3 +62,30 @@ Here’s what the assistant looks like in action:
 
 ### GPT Explanation Example
 ![AI Security Assistant in Terminal](Screenshot3.png)
+
+##🌐 Connect With Me
+📍 Built by @PreciousDeanna as part of my journey into Cloud, AI, and Cybersecurity
+📚 Studying for AWS & Security+
+🧠 Sharing everything I learn in public
+🎥 YouTube Tutorials Coming Soon!
+📲 LinkedIn
+
+##🧩 Future Upgrades
+ ⬜Add Port Scanner Tool
+
+ ⬜Hash Generator + Explainer
+
+ ⬜Notion + GPT Logging System
+
+ ⬜Streamlit GUI version
+
+ ⬜Export as CLI learning package
+
+
+##🪪 License
+MIT © 2025 — Use it, fork it, remix it. Just credit a real one ✊🏽
+
+---
+
+
+
